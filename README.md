@@ -14,11 +14,9 @@
 <!-- <! Website designed with the help of Bootstrap > -->
 
 <!-- Cold Treat Image Citation -->
-<!-- Vanilla - Image sourced from  -->
-<!-- Chocolate - Image sourced from -->
-<!-- Strawberry - Image sourced from -->
-<!-- Cookie Dough - Image sourced from -->
-<!-- Mint Chocolate Chip - Image sourced from -->
-<!-- RoseWater - Image sourced from -->
-<!-- Banana Pudding - Image sourced from -->
-<!-- Sweet Potato Pie - Image sourced from -->
+<!-- Vanilla - Image sourced from Domestic Gothess.com -->
+<!-- Chocolate - Image sourced from Lauren's Latest.com-->
+<!-- Strawberry - Image sourced from Butter and Bliss.com -->
+<!-- RoseWater - Image sourced from Sugar Spun Run.com-->
+<!-- Banana Pudding - Image sourced from Spicy Southern Kitchen.com-->
+<!-- Sweet Potato Pie - Image sourced from Butter Be Ready.com -->
